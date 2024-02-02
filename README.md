@@ -1,7 +1,7 @@
 # install-chrome-archlinux
 ### Tutorial para instalação do Google Chrome no Arch Linux
 ---
-<img src="/imagens/chrome.png">
+<img src="/imagens/chrome.png" width="500px"/>
 
 1) No terminal do Arch Linux Kde ou Gnome, acessar a pasta _Dowloads_ digitando:</br>
 ``cd Downloads``
