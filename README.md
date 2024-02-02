@@ -24,4 +24,3 @@ makepkg -si
 ```
 6) Após os comandos acima o Google Chrome estará instalado podendo ser acessado através da interface gráfica ou através do terminal, neste caso digitando-se:</br>
 `google-chrome-stable`
-`
